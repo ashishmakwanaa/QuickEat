@@ -1,5 +1,9 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,600&family=Montserrat:wght@400;500&family=Oswald:wght@500&family=Playfair+Display:wght@700&family=Poppins:wght@300;400;500&family=Raleway&display=swap');
+
+
+body{
+  height: 100%;
+  width: 100%;
 }
 
 .App-logo {
